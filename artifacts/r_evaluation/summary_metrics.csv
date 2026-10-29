@@ -1,0 +1,14 @@
+"metric","value"
+"test_samples",2100
+"accuracy",0.913809523809524
+"accuracy_bootstrap_95ci_lower",0.901428571428571
+"accuracy_bootstrap_95ci_upper",0.925714285714286
+"macro_precision",0.867191455161749
+"macro_recall",0.939166666666667
+"macro_f1",0.898393467706938
+"macro_f1_bootstrap_95ci_lower",0.884795116593341
+"macro_f1_bootstrap_95ci_upper",0.911902965293406
+"weighted_f1",0.916151182689245
+"macro_auc_ovr",0.959022315101479
+"multiclass_brier_score",0.172456663552388
+"macro_expected_calibration_error",0.0575638385720032

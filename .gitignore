@@ -1,0 +1,27 @@
+# Dataset files are downloaded locally and are not redistributed here.
+archive.zip
+data/raw/
+data/source_video_groups.csv
+
+# Local Python environments, bytecode, and notebook state.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local R workspace and project state.
+.Rhistory
+.RData
+.Rproj.user/
+
+# Credentials and local environment configuration.
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+
+# Operating-system/editor files.
+.DS_Store
+Thumbs.db
+.vscode/

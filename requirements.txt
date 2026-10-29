@@ -1,0 +1,12 @@
+torch
+torchvision
+timm
+pandas
+Pillow
+scikit-learn
+matplotlib
+seaborn
+tqdm
+kaggle
+streamlit>=1.57
+plotly>=5.20
